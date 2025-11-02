@@ -9,7 +9,7 @@ Follow along with the classroom lesson to complete the project!
 ## Bootcamp AI Linux Workspace
 [Bootcamp AI](https://www.bootcampai.org/) provides a browser-based Linux for students. 
 
-You are welcome to develop this project on your local machine, and you are not required to use the Udacity Workspace. However, the Workspace provides a convenient and consistent Linux development environment we encourage you to try.
+You are welcome to develop this project on your local machine, and you are not required to use the  Workspace. However, the Workspace provides a convenient and consistent Linux development environment we encourage you to try.
 
 ## ncurses
 [ncurses](https://www.gnu.org/software/ncurses/) is a library that facilitates text-based graphical output in the terminal. This project relies on ncurses for display output.
